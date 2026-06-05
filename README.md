@@ -1,10 +1,9 @@
 # Logistic Regression Spam Classifier
 
-A binary classification model built from the ground up in Python that distinguishes spam email from legitimate email using logistic regression.
-
 ## Overview
 
-This project trains a logistic regression classifier to flag spam. Raw email text is transformed into a numeric design matrix of binary word occurrence features, the model is fit using scikit-learn, and performance is evaluated using metrics chosen specifically for the filtering task rather than relying on accuracy alone.
+This project trains a logistic regression classifier to flag spam. Raw email text is transformed into a numeric design matrix of binary word occurrence features, the model is fit using scikit-learn, and performance is evaluated using metrics chosen specifically for the filtering task rather than relying on accuracy alone. It's a binary classification model built from the ground up in Python that distinguishes spam email from legitimate email using logistic regression.
+
 
 ## Features
 
